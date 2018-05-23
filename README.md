@@ -1,4 +1,4 @@
-# Dog blog webpage
+# Dog blog 
 #### HTML Exercise for Epicodus, 11/11/17
 
 #### By Edgar Hernandez and Danyel Murray
